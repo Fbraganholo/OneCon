@@ -1,6 +1,7 @@
 # OneCon — Site Institucional
 
 Primeira versão do site institucional da OneCon / Imperio Sul Consult.
+Site OneCon publicado pelo GitHub Pages.
 
 ## Arquivos
 - index.html
